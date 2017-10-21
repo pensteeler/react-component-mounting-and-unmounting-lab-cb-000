@@ -7,7 +7,7 @@ class Pancake extends React.Component {
 
     this.state = {
       timeCooked: 0,
-      flippedAt: 2
+      flippedAt: undefined
     };
   }
 
